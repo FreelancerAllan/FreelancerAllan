@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FreelancerAllan</h1>
-<h3 align="center">I'm a Data Scientist ,Machine Learning Engineer, Web developer, graphic designer,White Hat Hacker and cyber security enthusiast. Passionate about creating secure and user-friendly Web applications</h3>
+<h3 align="center">I'm a Programmer, Ethical Hacker, and Cyber security enthusiast. Passionate about creating secure Web and Mobile Applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
